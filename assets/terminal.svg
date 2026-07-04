@@ -1,0 +1,24 @@
+<svg width="420" height="260" viewBox="0 0 420 260" xmlns="http://www.w3.org/2000/svg">
+  <rect width="420" height="260" fill="#0D0D0D" stroke="#F59E0B" stroke-width="1.5"/>
+
+  <!-- title bar -->
+  <rect x="0" y="0" width="420" height="30" fill="#161616"/>
+  <text x="16" y="20" font-family="IBM Plex Mono, monospace" font-size="12" fill="#8A8A8A" letter-spacing="1">
+    ~/karthik-prasanna
+  </text>
+  <line x1="0" y1="30" x2="420" y2="30" stroke="#F59E0B" stroke-width="1"/>
+
+  <!-- terminal content -->
+  <g font-family="IBM Plex Mono, monospace" font-size="14" fill="#FFFFFF">
+    <text x="18" y="58"><tspan fill="#F59E0B">$</tspan> whoami</text>
+    <text x="18" y="82" fill="#B0B0B0">&gt; backend engineer</text>
+
+    <text x="18" y="114"><tspan fill="#F59E0B">$</tspan> stack --list</text>
+    <text x="18" y="138" fill="#B0B0B0">&gt; java, spring boot, mysql</text>
+
+    <text x="18" y="170"><tspan fill="#F59E0B">$</tspan> status --check</text>
+    <text x="18" y="194" fill="#B0B0B0">&gt; open to work</text>
+
+    <text x="18" y="226"><tspan fill="#F59E0B">$</tspan> <tspan fill="#F59E0B">▍</tspan></text>
+  </g>
+</svg>
