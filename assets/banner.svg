@@ -1,1 +1,21 @@
+<svg width="900" height="170" viewBox="0 0 900 170" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="170" fill="#0D0D0D"/>
 
+  <!-- grid texture -->
+  <g stroke="#1A1A1A" stroke-width="1">
+    <line x1="0" y1="42" x2="900" y2="42"/>
+    <line x1="0" y1="128" x2="900" y2="128"/>
+  </g>
+
+  <!-- accent corner marks -->
+  <path d="M20 20 L20 40 M20 20 L40 20" stroke="#F59E0B" stroke-width="2" fill="none"/>
+  <path d="M880 150 L880 130 M880 150 L860 150" stroke="#F59E0B" stroke-width="2" fill="none"/>
+
+  <text x="450" y="80" text-anchor="middle" font-family="IBM Plex Mono, monospace" font-size="42" font-weight="700" fill="#FFFFFF" letter-spacing="4">
+    KARTHIK PRASANNA
+  </text>
+
+  <text x="450" y="112" text-anchor="middle" font-family="IBM Plex Mono, monospace" font-size="15" fill="#F59E0B" letter-spacing="3">
+    BACKEND ENGINEER — JAVA / SPRING BOOT / MYSQL
+  </text>
+</svg>
